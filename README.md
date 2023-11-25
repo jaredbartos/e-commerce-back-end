@@ -1,6 +1,10 @@
 # E-Commerce Back End
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![Screenshot 1](./assets/images/screenshot_1.png)
+![Screenshot 2](./assets/images/screenshot_2.png)
+![Screenshot 3](./assets/images/screenshot_3.png)
+
 ## Description
 
 This project is the back end for an e-commerce website. The back end uses a SQL database connected through MySQL2 and utilizing the Sequelize ORM tool to manage CRUD requests through API endpoints.
@@ -10,7 +14,6 @@ This project is the back end for an e-commerce website. The back end uses a SQL 
 - [License](#license)
 - [Questions](#questions)
 - [Link to Demonstration Video](#link-to-demonstration-video)
-- [Screenshots](#screenshots)
 
 ## Usage
 
@@ -33,9 +36,3 @@ jaredbartos@gmail.com
 ## Link to Demonstration Video
 
 [E-Commerce Back End](https://drive.google.com/file/d/11EcuRBLcpTnoJwuvRJ1tNAYp0HwA1sYE/view?usp=sharing)
-
-## Screenshots
-
-![Screenshot 1](./assets/images/screenshot_1.png)
-![Screenshot 2](./assets/images/screenshot_2.png)
-![Screenshot 3](./assets/images/screenshot_3.png)
