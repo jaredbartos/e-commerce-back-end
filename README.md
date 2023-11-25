@@ -10,6 +10,7 @@ This project is the back end for an e-commerce website. The back end uses a SQL 
 - [License](#license)
 - [Questions](#questions)
 - [Link to Demonstration Video](#link-to-demonstration-video)
+- [Screenshots](#screenshots)
 
 ## Usage
 
@@ -32,3 +33,9 @@ jaredbartos@gmail.com
 ## Link to Demonstration Video
 
 [E-Commerce Back End](https://drive.google.com/file/d/11EcuRBLcpTnoJwuvRJ1tNAYp0HwA1sYE/view?usp=sharing)
+
+## Screenshots
+
+![Screenshot 1](./assets/images/screenshot_1.png)
+![Screenshot 2](./assets/images/screenshot_2.png)
+![Screenshot 3](./assets/images/screenshot_3.png)
